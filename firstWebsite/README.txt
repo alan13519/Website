@@ -1,0 +1,1 @@
+Please use the SQL commands located in the SQL folder in order to set up the database
